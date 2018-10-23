@@ -5,4 +5,4 @@ open python
 Program:
 type-
 print('hello world')
-output will be "hello world"
+
